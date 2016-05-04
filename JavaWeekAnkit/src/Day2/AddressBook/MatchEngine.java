@@ -36,14 +36,5 @@ public class MatchEngine {
             }
 
         }
-
-
-
-        /*Person p = L1.get(i);
-        if(p.getAvailable().
-        for (int i=0;i<L1.size();i++)
-        {
-            System.out.println(L1.get(i));
-        }*/
     }
 }
